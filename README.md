@@ -1,11 +1,11 @@
 # JMac Dark Glass
 
-A premium dark glass theme designed for clarity and contrast.
+JMac Dark Glass is a premium dark theme with a deep matte background and neon-accented syntax. Designed for clarity and reduced eye strain, it delivers a sharp, modern coding experience ideal for PHP, HTML, JavaScript, and full-stack development.
 
-## Features
+## ✨ Features
 - Deep charcoal background
-- Neon green cursor
-- Soft blue keywords
-- Glass-style UI panels
+- Neon-accented syntax highlighting
+- Optimized for PHP, HTML, and JavaScript
+- Clean, glass-inspired UI feel
 
-Built for speed and focus.
+Built for speed, focus, and modern workflows.
