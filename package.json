@@ -1,0 +1,24 @@
+{
+  "name": "jmac-dark-glass",
+  "displayName": "JMac Dark Glass",
+  "description": "A premium dark glass UI theme with neon clarity and SaaS-style contrast.",
+  "version": "1.0.0",
+  "publisher": "jmac",
+  "author": "John MacFadden",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JMac Dark Glass",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jmac-dark-glass-color-theme.json"
+      }
+    ]
+  }
+}

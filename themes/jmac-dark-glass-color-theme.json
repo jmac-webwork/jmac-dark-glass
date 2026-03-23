@@ -1,0 +1,62 @@
+{
+  "name": "JMac Dark Glass",
+  "type": "dark",
+
+  "colors": {
+    "editor.background": "#0b0f14",
+    "editor.foreground": "#d4d4d4",
+    "editorCursor.foreground": "#00ffcc",
+    "editor.lineHighlightBackground": "#1a1f26",
+    "editor.selectionBackground": "#264f78",
+
+    "activityBar.background": "#0b0f14",
+    "sideBar.background": "#0f141a",
+    "titleBar.activeBackground": "#0b0f14",
+    "statusBar.background": "#0b0f14",
+
+    "panel.background": "#0b0f14",
+    "terminal.background": "#0b0f14"
+  },
+
+  "tokenColors": [
+    {
+      "scope": "keyword",
+      "settings": { "foreground": "#569CD6" }
+    },
+    {
+      "scope": "string",
+      "settings": { "foreground": "#98C379" }
+    },
+    {
+      "scope": "variable",
+      "settings": { "foreground": "#d4d4d4" }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "scope": "support.function",
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": { "foreground": "#D19A66" }
+    },
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#5c6370",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "entity.name.tag",
+      "settings": { "foreground": "#E06C75" }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": { "foreground": "#D19A66" }
+    }
+  ]
+}
